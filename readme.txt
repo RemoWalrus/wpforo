@@ -1,5 +1,5 @@
-﻿=== wpForo Forum ===
-Contributors: gVectors Team
+﻿=== wpForo Forum Modified ===
+Contributors: gVectors Team, Latif Pala, Romer Garcia
 Tags: forum, forums, forum plugin, WordPress forum plugin, community, discussion
 Requires at least: 4.1
 Tested up to: 5.5
